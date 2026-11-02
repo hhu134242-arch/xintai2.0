@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Xintai 2.0",
+    "slug": "xintai2",
+    "version": "1.0.0",
+    "scheme": "xintai2",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router",
+      "expo-dev-client"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
